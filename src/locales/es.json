@@ -1,0 +1,29 @@
+{
+  "createUser": "Crea un nuevo usuario",
+  "createUserSuccess": "Usuario creado con éxito",
+  "createUserError": "Error al crear el usuario",
+  "userList": "Lista de usuarios",
+  "form": {
+    "submit": "Enviar",
+    "name": "Nombre",
+    "email": "Email",
+    "password": "Contraseña"
+  },
+  "news": {
+    "title": "Título",
+    "content": "Contenido",
+    "newsList": "Lista de noticias",
+    "submit": "Enviar",
+    "createNews": "Crea una noticia",
+    "newsCreated": "Noticia creada con éxito",
+    "newsError": "Error al crear la noticia"
+  },
+  "navbar": {
+    "lang": "Idioma",
+    "pages": "Páginas",
+    "createUser": "Crea un nuevo usuario",
+    "users": "Usuarios",
+    "createNew": "Crea una noticia",
+    "news": "Noticias"
+  }
+}

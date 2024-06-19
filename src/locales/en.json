@@ -1,0 +1,28 @@
+{
+  "createUser": "Create a new user",
+  "createUserSuccess": "User created successfully",
+  "createUserError": "Error creating user",
+  "userList": "User list",
+  "form": {
+    "submit": "Submit",
+    "name": "Name",
+    "email": "Email",
+    "password": "Password",
+    "title": "Title",
+    "content": "Content"
+  },
+  "news": {
+    "newsList": "News list",
+    "createNews": "Create new news",
+    "newsCreated": "News created successfully",
+    "newsError": "Error creating news"
+  },
+  "navbar": {
+    "lang": "Lang",
+    "pages": "Pages",
+    "createUser": "Create a new user",
+    "users": "Users",
+    "createNew": "Create a new",
+    "news": "News"
+  }
+}
